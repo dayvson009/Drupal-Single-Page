@@ -1,7 +1,7 @@
 # Drupal Página única ("Single page / One page") no Drupal 7
 
 Neste tutorial irei mostrar como montar uma single page no drupal.
-Também pode se conferido pelo video tutorial que fiz no Youtube [Como criar uma Single page / One page no drupal 7](https://www.youtube.com/watch?v=SYM-RJwSGQ8&list=RDSYM-RJwSGQ8#t=218)
+Também pode se conferido pelo video tutorial que fiz no Youtube [Como criar uma Single page / One page no drupal 7](https://www.youtube.com/watch?v=YQGr21Pt-rY&feature=youtu.be)
 
 Mas o que é uma `Single page`? 
 
