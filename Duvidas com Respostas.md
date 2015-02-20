@@ -13,7 +13,7 @@ Modificado:
 Eu apenas adicionei uma tag `<h2>`. Onde o conteúdo é o título da página igual o menu.
 
 
-## Bilingue ou multlingue nao funciona no meu Single Page? 
+## Bilingue ou multlingue o scroll nao desce? 
 
 R = Faça as alterações seguintes:
 `sites\all\modules\single_page_website\single_page_website.module` na linha ::111 
