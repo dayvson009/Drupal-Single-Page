@@ -13,7 +13,7 @@ Modificado:
 Eu apenas adicionei uma tag `<h2>`. Onde o conteúdo é o título da página igual o menu.
 
 
-## Bilingue ou multlingue o scroll nao desce? 
+## Multlingue o scroll nao desce? 
 
 R = Faça as alterações seguintes:
 `sites\all\modules\single_page_website\single_page_website.module` na linha ::111 
@@ -30,5 +30,19 @@ Modificado:
 
 ```
 
+
+## Minha "VIEWS" está mostrando todos os conteúdos Mutilingue na mesma pagina, como faço pra separar?
+
+
+FILTER CRITERIA
+Content: Published (Yes)
+Node translation: Child translation
+
+R = Primeiramente escolha a linguagem em padrãro no meu caso é o português.
+ Agora em `estrutura\views\sua_view`.
+
+ Em `FILTER CRITERIA` clique em `adicionar`. Em "Buscar" escreva em 'language', marque-o e aplique,
+ na caixa `Configure filter criterion: Conteúdo: Idioma` selecione a opção `Current user's language`
+ , aplique, salve. vualá hehehe...
 
 
